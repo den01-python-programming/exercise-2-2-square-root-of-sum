@@ -30,3 +30,5 @@ Here are a few examples:
 **35**
 6
 ```
+
+**NB:** Remember you will have to `pip3 install numpy` to get the `numpy` library!
